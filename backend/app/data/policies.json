@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Adhere to ASCI self-regulatory content standards",
+    "description": "Advertisements must be legal, decent, honest, truthful and not misleading as per ASCI code.",
+    "category": "Content",
+    "source": "Advertising Standards Council of India (ASCI)",
+    "reference": "ASCI Code of Self-Regulation in Advertising"
+  },
+  {
+    "id": 2,
+    "title": "Must not obstruct traffic signs or signals",
+    "description": "Billboards should not block or confuse traffic signs/lights as required by IOAA guidelines.",
+    "category": "Safety / Visibility",
+    "source": "IOAA Code of Best Practices",
+    "reference": "Outdoor signs shall not obstruct vehicular or pedestrian traffic or traffic signals/signs"
+  },
+  {
+    "id": 3,
+    "title": "Maintain minimum distance between billboards",
+    "description": "The distance between following billboards must be at least 70 meters to avoid visual clutter.",
+    "category": "Spacing",
+    "source": "BMC (Mumbai) Outdoor Advertising Policy",
+    "reference": "Minimum distance criterion reduced from 100m to 70m"
+  },
+  {
+    "id": 4,
+    "title": "No plastic banners under 100 microns thickness",
+    "description": "Flex boards or plastic banners below 100 microns thickness are prohibited under environmental rules.",
+    "category": "Material / Environmental",
+    "source": "Plastic Waste Management Rules, 2016 (MoEFCC)",
+    "reference": "Ban on plastic flex <100 microns"
+  },
+  {
+    "id": 5,
+    "title": "Require permit / NOC from municipal authorities",
+    "description": "Billboards must have valid permits or NOC from the local municipal corporation.",
+    "category": "Authorization",
+    "source": "Municipal Regulations (e.g., MCGM Mumbai)",
+    "reference": "Permission required from Municipal Corporation of Greater Mumbai"
+  },
+  {
+    "id": 6,
+    "title": "Ensure structural safety per building codes",
+    "description": "Billboard structures must conform to local building and structural codes with safety clearance.",
+    "category": "Structural Safety",
+    "source": "IOAA / Municipal Building Codes",
+    "reference": "Signs shall be structurally designed to conform to standards"
+  },
+  {
+    "id": 7,
+    "title": "Lighting restrictions at night",
+    "description": "Illuminated billboards must be switched off between 12 AM and 6 AM to prevent light pollution and disturbance.",
+    "category": "Lighting",
+    "source": "Municipal Lighting Guidelines",
+    "reference": "CPCB Noise & Light Pollution Norms"
+  },
+  {
+    "id": 8,
+    "title": "No flashing or strobe lighting in digital billboards",
+    "description": "Digital billboards must not use strobe or flashing lights that can distract drivers.",
+    "category": "Digital Display",
+    "source": "Traffic Safety Recommendations",
+    "reference": "NHAI Road Safety Norms for Digital Signage"
+  },
+  {
+    "id": 9,
+    "title": "Highway proximity restrictions",
+    "description": "Billboards along highways must be at least 100 meters away from road intersections, flyovers, or curves.",
+    "category": "Highway Regulation",
+    "source": "NHAI Outdoor Advertisement Policy",
+    "reference": "Prohibition near intersections for road safety"
+  },
+  {
+    "id": 10,
+    "title": "Ban on hoardings in heritage zones",
+    "description": "Billboards must not be placed within 200 meters of heritage buildings, monuments, or protected sites.",
+    "category": "Heritage / Cultural",
+    "source": "Archaeological Survey of India (ASI)",
+    "reference": "Ancient Monuments and Archaeological Sites and Remains Act, 1958"
+  },
+  {
+    "id": 11,
+    "title": "Pedestrian pathway safety",
+    "description": "No billboards or hoardings should block footpaths, pedestrian crossings, or emergency exits.",
+    "category": "Safety / Accessibility",
+    "source": "Municipal Urban Design Guidelines",
+    "reference": "Footpath obstruction rules"
+  },
+  {
+    "id": 12,
+    "title": "Height restrictions",
+    "description": "Billboards must not exceed 40 feet in height to avoid structural risks and urban skyline disruption.",
+    "category": "Structural",
+    "source": "Municipal Building Codes",
+    "reference": "Standard outdoor advertising height regulations"
+  },
+  {
+    "id": 13,
+    "title": "Ban on rooftop billboards without clearance",
+    "description": "Rooftop billboards require special approval to ensure no risk to building integrity or public safety.",
+    "category": "Structural Safety",
+    "source": "Municipal Safety Norms",
+    "reference": "Permission required for rooftop hoardings"
+  },
+  {
+    "id": 14,
+    "title": "Environmental responsibility",
+    "description": "Billboards must use recyclable and eco-friendly materials wherever possible.",
+    "category": "Environmental",
+    "source": "MoEFCC Sustainability Guidelines",
+    "reference": "Green advertising norms"
+  },
+  {
+    "id": 15,
+    "title": "Content restrictions for public decency",
+    "description": "Billboards must not display obscene, offensive, or politically misleading content.",
+    "category": "Content / Decency",
+    "source": "ASCI / Local Police Acts",
+    "reference": "ASCI decency and obscenity guidelines"
+  }
+]
