@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node/React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
+.expo-shared/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
